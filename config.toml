@@ -1,5 +1,5 @@
 baseURL = 'https://amtzlo.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Abel Martinez'
 theme = "gokarna"
 publishDir = "docs"
