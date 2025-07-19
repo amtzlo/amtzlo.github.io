@@ -41,7 +41,7 @@
 }
 
 body {
-    font-family: Lato, 'sans-serif',  Roboto, sans-serif;
+    font-family: "Work Sans", 'sans-serif',  Roboto, sans-serif;
     background-color: var(--bg-primary);
     color: var(--text-primary);
     line-height: 1.6;
@@ -130,6 +130,32 @@ h1, h2, h3 {
     margin: 0 auto;
     padding: 4rem 1rem;
 }
+
+.main-about {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 4rem 1rem;
+    display: flex;
+    flex-direction: row;
+}
+
+.main-about p {
+    color: var(--text-muted)
+}
+
+.intro{
+    max-width: 55%;
+}
+
+.intro h2 {
+    margin-top: 4rem;
+}
+.intro-text {
+    margin-top: 1.5rem;
+}
+
+
+/* Hero section */
 
 .hero {
     text-align: left;
